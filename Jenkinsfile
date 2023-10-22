@@ -4,6 +4,7 @@ pipeline {
     stage('') {
       steps {
         echo 'the pipeline triggerd from github hooks'
+        echo 'Hello BELAABED Miloud'
       }
     }
 
